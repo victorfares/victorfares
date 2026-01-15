@@ -38,8 +38,8 @@ Sou um desenvolvedor apaixonado por **Backend** e **Engenharia de Software**, fo
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorfares&show_icons=true&theme=dracula" height="160" alt="Estatísticas Gerais" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfares&layout=compact&theme=dracula" height="160" alt="Linguagens Mais Usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorfares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfares&layout=compact&theme=dracula"/>
 </div>
 
 ---
