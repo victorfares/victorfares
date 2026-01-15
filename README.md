@@ -37,11 +37,6 @@ Sou um desenvolvedor apaixonado por **Backend** e **Engenharia de Software**, fo
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorfares&theme=dracula&hide_border=true" alt="Estatísticas de Frequência" />
-  
-  <br/>
-  
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=victorfares&layout=compact&theme=dracula&hide_border=true" height="140" alt="Linguagens Mais Usadas" />
 </div>
 
