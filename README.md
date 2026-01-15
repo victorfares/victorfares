@@ -24,8 +24,6 @@ Sou um desenvolvedor apaixonado por **Backend** e **Engenharia de Software**, fo
 * 📊 Análise e Ciência de Dados
 * 🏗️ Arquitetura de Software e Design Patterns
 
----
-
 ### 🚀 Projeto em Destaque
 
 <div align="center">
@@ -33,14 +31,18 @@ Sou um desenvolvedor apaixonado por **Backend** e **Engenharia de Software**, fo
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=victorfares&repo=Gestor-de-Pessoas-TEDI&theme=dracula&bg_color=1F222E&hide_border=true" />
   </a>
 </div>
+
 ---
 
 ### 📊 Estatísticas do GitHub
 
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=victorfares&layout=compact&theme=dracula&hide_border=true" height="180" alt="Linguagens Mais Usadas" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorfares&theme=dracula&hide_border=true" alt="Streak Stats" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=victorfares&layout=compact&theme=dracula&hide_border=true&height=180" height="180" alt="Top Langs" />
 </div>
-
----
 
 ### 🏆 Certificações
 
