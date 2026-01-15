@@ -1,4 +1,4 @@
-# Olá, eu sou o Victor Fares! 👋
+# Olá, eu sou o Victor
 
 ### 🎓 Estudante de Engenharia da Computação na UTFPR
 
@@ -37,9 +37,10 @@ Sou um desenvolvedor apaixonado por **Backend** e **Engenharia de Software**, fo
 
 ### 📊 Estatísticas do GitHub
 
-| Minhas Estatísticas | Linguagens Mais Usadas |
-| :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=victorfares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfares&layout=compact&theme=dracula) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victorfares&show_icons=true&theme=dracula" height="150" alt="Stats do Victor" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfares&layout=compact&theme=dracula" height="150" alt="Linguagens do Victor" />
+</p>
 
 ---
 
@@ -47,7 +48,7 @@ Sou um desenvolvedor apaixonado por **Backend** e **Engenharia de Software**, fo
 
 | Cisco JavaScript | IBM Data Fundamentals | IBM Python Analysis |
 | :---: | :---: | :---: |
-| <a href="https://www.credly.com/badges/1f6a75f1-e0ba-4d5f-a04a-65954929d6a9/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/66e53995-5858-4505-87d2-7201c70e34c2/JSE1_Badge_Verified.png" width="110"></a> | <a href="https://www.credly.com/badges/6fb5a2fc-dec1-4628-bcf7-a56d845676b8/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/3f7e3d96-f033-4017-a068-16053332dc33/Data_Fundamentals_-_IBM_SkillsBuild.png" width="110"></a> | <a href="https://www.credly.com/badges/aed3fecd-9e70-439d-a904-764161309474/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/27042858-a9eb-46e3-80f0-333e33d45c7e/Data_Analysis_Using_Python.png" width="110"></a> |
+| <a href="https://www.credly.com/badges/1f6a75f1-e0ba-4d5f-a04a-65954929d6a9/public_url" target="_blank"><img src="./javascript-essentials-1.png" width="110"></a> | <a href="https://www.credly.com/badges/6fb5a2fc-dec1-4628-bcf7-a56d845676b8/public_url" target="_blank"><img src="./data-fundamentals.png" width="110"></a> | <a href="https://www.credly.com/badges/aed3fecd-9e70-439d-a904-764161309474/public_url" target="_blank"><img src="./data-analysis-using-python.png" width="110"></a> |
 
 ---
 
