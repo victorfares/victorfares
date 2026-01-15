@@ -1,4 +1,4 @@
-# Olá, eu sou o Victor
+# Olá, eu sou o Victor!
 
 ### 🎓 Estudante de Engenharia da Computação na UTFPR
 
@@ -38,8 +38,11 @@ Sou um desenvolvedor apaixonado por **Backend** e **Engenharia de Software**, fo
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorfares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfares&layout=compact&theme=dracula"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorfares&theme=dracula&hide_border=true" alt="Estatísticas de Frequência" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=victorfares&layout=compact&theme=dracula&hide_border=true" height="140" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
