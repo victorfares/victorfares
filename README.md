@@ -28,12 +28,11 @@ Sou um desenvolvedor apaixonado por **Backend** e **Engenharia de Software**, fo
 
 ### 🚀 Projeto em Destaque
 
-#### ☕ **Gestor TEDI**
-<a href="https://github.com/victorfares/Gestor-de-Pessoas-TEDI">
-*Aplicação Full Stack para gestão corporativa.*
-* **Stack:** Java, Spring Boot, Docker.
-* **Destaque:** Implementação de arquitetura MVC, Domain-Driven Design e containerização completa.
-
+<div align="center">
+  <a href="https://github.com/victorfares/Gestor-de-Pessoas-TEDI">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=victorfares&repo=Gestor-de-Pessoas-TEDI&theme=dracula&bg_color=1F222E&hide_border=true" />
+  </a>
+</div>
 ---
 
 ### 📊 Estatísticas do GitHub
