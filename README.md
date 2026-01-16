@@ -36,9 +36,9 @@ Sou um desenvolvedor apaixonado por **Backend** e **Engenharia de Software**, fo
 
 ### 📊 Estatísticas do GitHub
 
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=victorfares&layout=compact&theme=dracula&hide_border=true&height=180" height="180" alt="Top Langs" />
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=victorfares&layout=compact&theme=dracula&hide_border=true&height=180" height="180" alt="Linguagens Mais Usadas" />
 </div>
-
 ### 🏆 Certificações
 
 | Cisco JavaScript | IBM Data Fundamentals | IBM Python Analysis |
